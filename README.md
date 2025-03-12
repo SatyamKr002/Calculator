@@ -1,2 +1,1 @@
-# codsoft_3
-calculator
+calculator using HTML CSS JS
